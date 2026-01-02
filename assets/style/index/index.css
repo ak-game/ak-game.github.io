@@ -235,7 +235,7 @@ button:hover{
     max-height: 300px;
   }
   .drop-I{
-  transition: transform ease 1s;
+  transition: transform ease 0.6s;
   }
   #drop-container.opened .drop-I{
   transform: rotate(180deg);
@@ -502,3 +502,4 @@ button:hover{
 }
 
   
+
